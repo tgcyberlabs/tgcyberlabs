@@ -19456,6 +19456,16 @@ iframe {
   overflow: unset;
 }
 
+.head-caption {
+  font-family: "Volkhov", "DM Serif Display", cursive;
+  font-weight: 700;
+  font-size: 2.88651rem;
+  color: #181E4B;
+  margin-bottom: 5px;
+  position: relative;
+  z-index: 1;
+}
+
 .hero-title {
   font-family: "Volkhov", "DM Serif Display", cursive;
   font-weight: 700;
@@ -19465,6 +19475,7 @@ iframe {
   position: relative;
   z-index: 1;
 }
+
 
 @media (min-width: 1200px) {
   .hero-title {
