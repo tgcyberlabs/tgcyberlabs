@@ -14,4 +14,4 @@ Disallow: /43211
 Disallow: /flags/1.*
 Disallow: /emp-creds
 Disallow: /emp-creds/log
-Disallow: /logs
+Disallow: /log
