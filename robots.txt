@@ -10,10 +10,9 @@ Disallow: /flags/
 Disallow: /src/
 Disallow: /nodes/
 Disallow: /nodes/active.html
-Disallow: /mgrctf/
-Disallow: /mgrctf/masterflags/
 Disallow: /43211/
 Disallow: /flags/1.html
 Disallow: /emp-creds/
 Disallow: /emp-creds/log/
 Disallow: /log/
+Disallow: /logbackup
