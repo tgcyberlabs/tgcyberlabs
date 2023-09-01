@@ -17,4 +17,4 @@ Disallow: /emp-creds/log/
 Disallow: /log/
 Disallow: /logbackup
 
-lol you found me :) {Hell0Flag}
+wow you are here, the code to save the host is {S@vEmeB0!}
