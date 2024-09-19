@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Not Found</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            text-align: left;
+            margin-top: 20px;
+            background-color: #f4f4f4;
+        }
+        .hidden-item {
+            opacity: 0;
+            visibility: hidden;
+        }
+        .mask {
+            position: absolute;
+            top: -9999px;
+            left: -9999px;
+            font-size: 0.1px;
+        }
+        .container {
+            display: flex;
+            justify-content: space-around;
+            height: 100vh;
+            align-items: center;
+        }
+        .weird-classname {
+            color: #333;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="weird-classname">
+            <h1>Error 404: Page Not Found</h1>
+            <p>The page you're looking for doesn't exist. Please check the URL or contact support.</p>
+            <p>Hint: Have you checked the unreachable places yet?</p>
+        </div>
+    </div>
+
+    <!-- Obfuscated and hidden flag -->
+    <div class="mask">
+        <div class="hidden-item">vitctf{keEp_$e@rCh!nG}</div>
+    </div>
+
+    <div class="invisible-section">
+        <p style="font-size: 0px;">Nothing to see here...</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Invisible Web LLC</p>
+    </footer>
+</body>
+</html>
