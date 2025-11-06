@@ -1,20 +1,46 @@
 User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Disallow: /admin/
-Disallow: /mail-login/
+Disallow:
+
 Disallow: /mail-login/emp/
-Disallow: /backup/
-Disallow: /archive/
-Disallow: /flags/
-Disallow: /src/
-Disallow: /nodes/
+Disallow: /exploit-db/
 Disallow: /nodes/active.html
-Disallow: /43211/
-Disallow: /flags/1.html
-Disallow: /emp-creds/
+Disallow: /cache-controller/
 Disallow: /emp-creds/log/
+Disallow: /43211/
+Disallow: /edge-engine/
+Disallow: /flags/
+Disallow: /function-framework/
+Disallow: /payloads/
 Disallow: /log/
+Disallow: /admin/
+Disallow: /file-forwarder/
+Disallow: /mail-login/
+Disallow: /rootkits/
+Disallow: /auth-protocols/
+Disallow: /dynamic-dataset/
+Disallow: /emp-creds/
+Disallow: /backup/
+Disallow: /blockchain-broker/
+Disallow: /api-analytics/
 Disallow: /logbackup
+Disallow: /src/
+Disallow: /fusion-features/
+Disallow: /cloud-cluster/
+Disallow: /backdoor-shells/
+Disallow: /data-dispatcher/
+Disallow: /crypto-compute/
+Disallow: /backend-builds/
+Disallow: /nodes/
+Disallow: /flags/1.html
+Disallow: /encryption-endpoint/
+Disallow: /asset-allocator/
+Disallow: /binary-buffers/
+Disallow: /event-emulator/
+Disallow: /cgi-bin/
+Disallow: /archive/
+Disallow: /debug-dashboard/
+Disallow: /c2-panels/
+Disallow: /loot/
 
 wow you are here, the code to save the host is {S@vEmeB0!}
+
